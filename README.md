@@ -43,3 +43,6 @@ You can find **[here](scripts)** my personal scripts, including the popular **[_
 
 * [OpenCV Viz](examples/cpp/opencv/viz): a basic OpenCV Viz application with an axis widget and a cube widget.
 * [PHP Form](examples/php/form): a basic PHP form with JavaScript preprocessing.
+
+
+run .sh script with bash ./"name of file"
